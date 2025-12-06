@@ -1,0 +1,9 @@
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\Nightfall.csproj.AssemblyReference.cache
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\App.baml
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\UI\Views\ChatView.g.cs
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\App.g.cs
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\Nightfall_Content.g.cs
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\Nightfall_MarkupCompile.cache
+C:\Nightfall App\Nightfall_Neon\Nightfall_Neon\obj\Debug\net8.0-windows10.0.19041.0\Nightfall_MarkupCompile.lref

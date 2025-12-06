@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\visuals\\hudrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:visuals\\hudrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\nightfall.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:nightfall.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\views\\chatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\views\\chatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\visuals\\auraengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:visuals\\auraengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\audio\\presstotalkmicrophone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\audio\\presstotalkmicrophone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\audio\\neonaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\audio\\neonaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\ineonaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\ineonaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\ineonmicrophonesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\ineonmicrophonesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\views\\chatview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\views\\chatview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PCarb\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\converters\\messagealignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\converters\\messagealignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\ui\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:ui\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neonttsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neonttsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neonwhisperclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neonwhisperclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neonevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neonevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neontone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neontone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|c:\\nightfall app\\nightfall_neon\\nightfall_neon\\neonsdk\\neonconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB60476-EA2E-82A8-D786-93BE87085504}|Nightfall.csproj|solutionrelative:neonsdk\\neonconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nightfall.csproj",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Nightfall.csproj",
+              "RelativeDocumentMoniker": "Nightfall.csproj",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Nightfall.csproj",
+              "RelativeToolTip": "Nightfall.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T23:48:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HudRenderer.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Visuals\\HudRenderer.cs",
+              "RelativeDocumentMoniker": "Visuals\\HudRenderer.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Visuals\\HudRenderer.cs",
+              "RelativeToolTip": "Visuals\\HudRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:46:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:47:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NeonAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\Audio\\NeonAudioPlayer.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\Audio\\NeonAudioPlayer.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\Audio\\NeonAudioPlayer.cs",
+              "RelativeToolTip": "NeonSDK\\Audio\\NeonAudioPlayer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:31:32.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuraEngine.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Visuals\\AuraEngine.cs",
+              "RelativeDocumentMoniker": "Visuals\\AuraEngine.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\Visuals\\AuraEngine.cs",
+              "RelativeToolTip": "Visuals\\AuraEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:46:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T17:53:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatView.xaml.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Views\\ChatView.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\ChatView.xaml.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Views\\ChatView.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\ChatView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:59:35.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\ViewModels\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\ChatViewModel.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\ViewModels\\ChatViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\ChatViewModel.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAkwBgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:08:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:54:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PressToTalkMicrophone.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\Audio\\PressToTalkMicrophone.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\Audio\\PressToTalkMicrophone.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\Audio\\PressToTalkMicrophone.cs",
+              "RelativeToolTip": "NeonSDK\\Audio\\PressToTalkMicrophone.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAIBZwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:03:17.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INeonMicrophoneSource.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\INeonMicrophoneSource.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\INeonMicrophoneSource.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\INeonMicrophoneSource.cs",
+              "RelativeToolTip": "NeonSDK\\INeonMicrophoneSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:55:52.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NeonClient.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonClient.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonClient.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonClient.cs",
+              "RelativeToolTip": "NeonSDK\\NeonClient.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAcwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:56:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INeonAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\INeonAudioPlayer.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\INeonAudioPlayer.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\INeonAudioPlayer.cs",
+              "RelativeToolTip": "NeonSDK\\INeonAudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:55:35.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatView.xaml",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Views\\ChatView.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\ChatView.xaml",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Views\\ChatView.xaml",
+              "RelativeToolTip": "UI\\Views\\ChatView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T08:42:00.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\PCarb\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\PCarb\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\PCarb\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\PCarb\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAASwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:40:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageAlignmentConverter.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Converters\\MessageAlignmentConverter.cs",
+              "RelativeDocumentMoniker": "UI\\Converters\\MessageAlignmentConverter.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Converters\\MessageAlignmentConverter.cs",
+              "RelativeToolTip": "UI\\Converters\\MessageAlignmentConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:58:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\UI\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "UI\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:57:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:57:08.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NeonTtsClient.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonTtsClient.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonTtsClient.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonTtsClient.cs",
+              "RelativeToolTip": "NeonSDK\\NeonTtsClient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:56:25.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NeonWhisperClient.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonWhisperClient.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonWhisperClient.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonWhisperClient.cs",
+              "RelativeToolTip": "NeonSDK\\NeonWhisperClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:56:09.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NeonEvents.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonEvents.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonEvents.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonEvents.cs",
+              "RelativeToolTip": "NeonSDK\\NeonEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:55:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NeonTone.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonTone.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonTone.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonTone.cs",
+              "RelativeToolTip": "NeonSDK\\NeonTone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:55:02.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NeonConfig.cs",
+              "DocumentMoniker": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonConfig.cs",
+              "RelativeDocumentMoniker": "NeonSDK\\NeonConfig.cs",
+              "ToolTip": "C:\\Nightfall App\\Nightfall_Neon\\Nightfall_Neon\\NeonSDK\\NeonConfig.cs",
+              "RelativeToolTip": "NeonSDK\\NeonConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:54:47.972Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
